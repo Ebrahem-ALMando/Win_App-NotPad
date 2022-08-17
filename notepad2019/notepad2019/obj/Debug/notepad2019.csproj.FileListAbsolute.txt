@@ -1,0 +1,22 @@
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\obj\Debug\notepad2019.csprojAssemblyReference.cache
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\obj\Debug\notepad2019.Form1.resources
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\obj\Debug\notepad2019.csproj.GenerateResource.cache
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\obj\Debug\notepad2019.csproj.CoreCompileInputs.cache
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\bin\Debug\Notepad.exe.config
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\bin\Debug\Notepad.exe
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\bin\Debug\Notepad.pdb
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\obj\Debug\Notepad.exe
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\obj\Debug\Notepad.pdb
+C:\Users\EBRAHEM_PC\Desktop\notepad2019\notepad2019\obj\Debug\Notepad.F1.resources
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\bin\Debug\Notepad.exe.config
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\bin\Debug\Notepad.exe
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\bin\Debug\Notepad.pdb
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\obj\Debug\notepad2019.csprojAssemblyReference.cache
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\obj\Debug\notepad2019.Form1.resources
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\obj\Debug\Notepad.F1.resources
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\obj\Debug\Notepad.Properties.Resources.resources
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\obj\Debug\notepad2019.csproj.GenerateResource.cache
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\obj\Debug\notepad2019.csproj.CoreCompileInputs.cache
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\obj\Debug\Notepad.exe
+D:\EBRAHEM\المعهد _دراستي\notepad2019\notepad2019\obj\Debug\Notepad.pdb
